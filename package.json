@@ -1,0 +1,30 @@
+{
+  "name": "captura-github",
+  "version": "1.0.0",
+  "description": "Generador de captura de perfil de usuarios de Github para compartirlo en las redes sociales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christo-027/Captura-Github.git"
+  },
+  "author": "Christopher",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Christo-027/Captura-Github/issues"
+  },
+  "homepage": "https://github.com/Christo-027/Captura-Github#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.8.0",
+    "eslint": "^9.8.0",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.9.0",
+    "node-fetch": "^3.3.2",
+    "prettier": "3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.0.1"
+  }
+}
